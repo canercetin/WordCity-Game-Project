@@ -1,0 +1,2 @@
+Click LEFT MOUSE BUTTON to click.
+Click RIGHT MOUSE BUTTON to cancel your choices.

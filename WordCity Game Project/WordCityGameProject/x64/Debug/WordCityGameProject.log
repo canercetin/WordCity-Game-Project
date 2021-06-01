@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ArcenenPC\Desktop\WordCity Game Project\WordCityGameProject\Source.cpp(607): warning C4715: 'check': tüm denetim yolları değer döndürmez
+  WordCityGameProject.vcxproj -> C:\Users\ArcenenPC\Desktop\WordCity Game Project\x64\Debug\WordCityGameProject.exe
